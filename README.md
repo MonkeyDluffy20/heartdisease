@@ -16,7 +16,7 @@ This repository contains Python code to predict heart disease using logistic reg
 
 ## Overview
 
-This repository provides a machine learning solution for predicting heart disease based on patient data. It includes data loading, preprocessing, model training using logistic regression, decision tree classifier, and random forest classifier, as well as evaluating model performance.
+This repository provides a machine-learning solution for predicting heart disease based on patient data. It includes data loading, preprocessing, model training using logistic regression, decision tree classifier, and random forest classifier, as well as evaluating model performance.
 
 ## Libraries Used
 
@@ -26,7 +26,7 @@ This repository provides a machine learning solution for predicting heart diseas
 
 ## Dataset
 
-The dataset used (`Heart Disease.csv`) contains patient data attributes such as age, sex, chest pain type, blood pressure, cholesterol level, etc. The target variable indicates whether the patient has heart disease or not.
+The dataset (`Heart Disease.csv`) contains patient data attributes such as age, sex, chest pain type, blood pressure, cholesterol level, etc. The target variable indicates whether the patient has heart disease or not.
 
 ## Usage
 
